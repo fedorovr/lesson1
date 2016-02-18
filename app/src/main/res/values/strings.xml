@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">lesson1</string>
+    <string name="app_name">lesson 1</string>
+    <string name="author_name">Roman Fedorov</string>
+    <string name="telephone_description">My phone is:</string>
+    <string name="telephone_number">+79052307275</string>
 </resources>
